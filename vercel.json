@@ -1,3 +1,5 @@
+{
+"version": 2,
   "builds": [
     {
       "src": "woo_order_mgt/wsgi.py",
