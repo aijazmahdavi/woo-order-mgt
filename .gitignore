@@ -175,3 +175,5 @@ pycache
 .idea/
 
 .vercel/
+
+woo_order_mgt/env.py
